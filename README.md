@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-- 🚀 I’m currently working on [Blur](https://blur.social)   
+- I’m currently working on [Blur](https://blur.social)   
