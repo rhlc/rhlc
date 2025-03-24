@@ -18,28 +18,28 @@ Results-driven **Full Stack Developer** with 4+ years of experience building sca
 
 ### **Software Development Lead**  
 **Coreyo** (Logistics Tech) | Bengaluru (On-site) | *Aug 2023 - Present*  
-- Spearheaded team of 5 engineers, implementing **Agile methodologies** that improved sprint velocity by **40%**  
+- Spearheaded team of 5 engineers, implementing **Agile methodologies** that improved sprint velocity  
 - Engineered **Go migration** of legacy APIs, achieving **10x performance boost**  
-- Optimized resource allocation, reducing project delivery timelines by **50%**  
-- Modernized frontend architecture using **React+TypeScript**, cutting bug reports by **35%**  
+- Optimized resource allocation, reducing project delivery timelines by a minimum of **50%**  
+- Modernized frontend architecture using **React+TypeScript**, cutting bug reports by a minimum of half  
 
 ### **Full Stack Developer**  
 **Neon Sundae** (Web3 Platform) | Remote | *Apr 2022 - Aug 2023*  
-- Developed **Solidity smart contracts** for NFT minting on Polygon (10K+ transactions/month)  
+- Developed **Solidity smart contracts** for NFT minting on Polygon  
 - Built **React+MetaMask** integration for seamless blockchain interactions  
-- Managed **Google Cloud infrastructure**, maintaining **99.95% uptime**  
-- Presented at 3+ **Web3 conferences**, expanding community engagement  
+- Managed **Google Cloud infrastructure**  
+- Presented at **Web3 conferences**, expanding community engagement  
 
 ### **Software Engineer**  
 **Blur Social** (Social Media) | Remote | *Oct 2020 - Mar 2022*  
-- Implemented **JWT authentication** system, reducing security incidents by **60%**  
-- Integrated **Stripe payments**, generating **$20K+ monthly recurring revenue**  
-- Developed core engagement features (likes/comments) increasing DAU by **25%**  
+- Implemented **JWT authentication** system  
+- Integrated **Stripe payments**, generating revenue 
+- Developed core engagement features (likes/comments) increasing DAU significantly  
 
 ### **Full Stack Developer**  
 **Outofbox** (IT Services) | Remote | *Sep 2020 - Apr 2022*  
-- Delivered **15+ responsive web apps** using modern CSS layouts  
-- Improved client satisfaction scores by **30%** through enhanced communication  
+- Delivered **10+ responsive web landing pages** using modern CSS layouts  
+- Improved client satisfaction through enhanced communication  
 
 ## **Education**  
 **B.Tech in Computer Science**  
