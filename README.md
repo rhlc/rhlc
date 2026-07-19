@@ -106,11 +106,4 @@ I work mostly in **Go** and the **TypeScript** ecosystem. Right now I'm leading 
 
 ---
 
-## 📊 GitHub Stats
-
-![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhlc&show_icons=true&hide_border=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rhlc&layout=compact&hide_border=true&theme=default)
-
----
-
 📫 Reach me at **rahulcy7@gmail.com** 
